@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naina-akter&show_icons=true&locale=en&layout=compact" alt="naina-akter" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naina-akter&show_icons=true&locale=en" alt="naina-akter" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naina-akter&" alt="naina-akter" /></p>
